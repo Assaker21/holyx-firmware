@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "nrf_crypto_error.h": "c",
+    "nrf_crypto_hash.h": "c"
+  }
+}
